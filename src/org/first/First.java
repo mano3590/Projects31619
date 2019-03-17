@@ -23,5 +23,9 @@ public class First {
 		File dest = new File("C:\\Users\\RAJ\\eclipse-workspace\\FitstPrject\\Screenshot\\first.png");
 		FileUtils.copyFile(src, dest);
 	}
+	
+	public void selectValue() {
+		
+	}
 
 }
